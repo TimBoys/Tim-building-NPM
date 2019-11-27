@@ -1,6 +1,6 @@
 {
     "name":"wjybuildingnpm",
-    "version":"1.0.1",
+    "version":"1.0.2",
     "main":"build/index.js",
     "repository":"https://github.com/TimBoys/Tim-building-NPM.git",
     "author":"Tim <786575400@qq.com>",
