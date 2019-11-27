@@ -1,0 +1,8 @@
+{
+    "name":"Tim-building-NPM",
+    "version":"1.0.0",
+    "main":"build/index.js",
+    "repository":"https://github.com/TimBoys/Tim-building-NPM.git",
+    "author":"Tim <junyanwu6606@163.com>",
+    "description":"Tim test and build self NPM"
+}
